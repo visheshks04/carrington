@@ -1,0 +1,4 @@
+*.cdf
+*.zip
+env/
+cdf38_0-dist
